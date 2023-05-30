@@ -5,7 +5,7 @@ Window {
     visible: true
     width: 640
     height: 480
-    title: qsTr("Hello World")
+    title: qsTr("Qt STEP07")
 
     Component.onCompleted: {
         // シグナル送信

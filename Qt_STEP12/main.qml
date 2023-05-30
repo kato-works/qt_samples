@@ -6,7 +6,7 @@ Window {
     visible: true
     width: 640
     height: 480
-    title: qsTr("Hello CAN")
+    title: qsTr("Qt STEP12")
 
     signal sendCanMessage(string frameId, string frameMsg)
 

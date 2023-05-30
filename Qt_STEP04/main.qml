@@ -5,7 +5,7 @@ Window {
     visible: true
     width: 640
     height: 480
-    title: qsTr("Hello World")
+    title: qsTr("Qt STEP04")
 
     function mouse_log(x, y){
         // マウスの位置情報をコンソールに出力

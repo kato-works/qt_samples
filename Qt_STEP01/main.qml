@@ -12,7 +12,7 @@ Window {
     visible: true;
     width: 640;
     height: 480;
-    title: qsTr("Hello World");
+    title: qsTr("Qt STEP01");
 
     /**
      * Hello QML表示エリア
